@@ -1,4 +1,4 @@
 # BeatBox-java
 <br><br>
 
-<img src='./hh.png' width=350 height=300>
+<img src='./hh.png' width=450 height=300>
